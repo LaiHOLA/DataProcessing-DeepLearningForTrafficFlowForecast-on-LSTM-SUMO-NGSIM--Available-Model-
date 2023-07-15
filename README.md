@@ -2,12 +2,13 @@
 
 * Welcome to this catalogue of project exhibition files for the author's MSc in Advanced Computer Science at the University of Leeds in 2022/2023.
 
-Please feel free to contact the authors if you encounter any other situations or have any other comments about this project while using it.
+Please feel free to contact the author if you encounter any other situations or have any other comments about this project while using it.
 ## Contact email:
 
 * sc22l2h@leeds.ac.uk (before 2023/11/15)
 * lai.uk@outlook.com(long-term)
-
+* lai.hu@qq.com(best option)
+  
 This project focuses on training models using SUMO-generated datasets versus real datasets extracted from NGSIM, comparing the judgments of the two different datasets on abnormal traffic flows and thus suggesting the use of SUMO datasets instead of real datasets.
 
 Methods for downscaling the NGSIM dataset to model inputs are provided in the project, and experimental model files and source data are provided for reference.
